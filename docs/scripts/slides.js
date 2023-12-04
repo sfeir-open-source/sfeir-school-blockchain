@@ -1,19 +1,19 @@
 import { SfeirThemeInitializer } from '../web_modules/sfeir-school-theme/sfeir-school-theme.mjs';
 
-// One method per module
-function schoolSlides() {
-  return ['00-school/00-TITLE.md', '00-school/speaker-jef.md'];
+const FOLDERS = {
+  "OO" : "00-start",
+  "O1" : "01-blockchain"
 }
 
-function introSlides() {
-  return ['intro/00-TITLE.md'];
-}
+// One method per module
+const schoolSlides = () => [`${FOLDERS.OO}/a-welcome.md`, `${FOLDERS.OO}/b-speaker-ala.md`]
+const blockchainSlides = () => [`${FOLDERS.O1}/a-intro.md`]
 
 function formation() {
   return [
     //
     ...schoolSlides(), //
-    ...introSlides(), //
+    ...blockchainSlides(), //
   ].map((slidePath) => {
     return { path: slidePath };
   });
