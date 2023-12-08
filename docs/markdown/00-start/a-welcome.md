@@ -8,9 +8,10 @@
 
 # Déroulement
 
-<p class="center">
-Durée => 3h<br><br>
-Théorie<br><br>
-Cas d'usage<br><br>
-Tempête de cerveaux<br>
-</p>
+- Durée ~3h
+
+- Concepts
+
+- Cas d'usage
+
+- Tempête de cerveaux
