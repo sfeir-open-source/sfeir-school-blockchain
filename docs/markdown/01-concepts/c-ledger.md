@@ -15,7 +15,7 @@
 
 - une copie des données
 <br><br>
-- mais pas forcément à jour
+- mais pas forcément à jour...
 
 ##--##
 
@@ -27,3 +27,9 @@
 <!-- .slide: class="transition bg-white" -->
 
 # La blockchain, un réseau P2P <br><br> Et un registre distribué
+
+##==##
+
+<!-- .slide: class="transition blue" -->
+
+# Des questions ?
