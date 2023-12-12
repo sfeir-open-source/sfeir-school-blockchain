@@ -9,13 +9,13 @@ const FOLDERS = {
 // One method per module
 const start = () => [`${FOLDERS.OO}/a-welcome.md`, `${FOLDERS.OO}/b-speaker-ala.md`, `${FOLDERS.OO}/c-who-are-you.md`];
 const concepts = () => [`${FOLDERS.O1}/a-concepts.md`, `${FOLDERS.O1}/b-networks.md`, `${FOLDERS.O1}/c-ledger.md`];
-const chain = () => [`${FOLDERS.O2}/a-chain.md`];
+const data = () => [`${FOLDERS.O2}/a-chain.md`, `${FOLDERS.O2}/b-consensus.md`];
 
 function formation() {
   return [
     ...start(), //
     ...concepts(), //
-    ...chain(), //
+    ...data(), //
   ].map((slidePath) => {
     return { path: slidePath };
   });
