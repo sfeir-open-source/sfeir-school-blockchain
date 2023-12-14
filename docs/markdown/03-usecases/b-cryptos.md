@@ -18,7 +18,7 @@
 
 - créée par "Satoshi Nakamoto"
 <br><br>
-- "white paper" de 2008
+- "white paper" de 2008 (mise en route 09/2009)
 
 ##==##
 
@@ -41,7 +41,7 @@ Ressource : [https://bitcoin.org/bitcoin.pdf](https://bitcoin.org/bitcoin.pdf)
 
 ##==##
 
-# Evenements
+# Evènements
 
 - création de "wallets"
 <br><br>
@@ -79,3 +79,52 @@ Ressource : [https://bitcoin.org/bitcoin.pdf](https://bitcoin.org/bitcoin.pdf)
 
 *We have proposed a system for electronic transactions <br><br>without relying on trust.*
 
+# Ğ1 (Duniter)
+
+- Créer en France
+<br><br>
+- White paper de 2010 (mise en route 03/2017)
+
+##==##
+
+# White paper
+
+- La Monnaie libre
+<br><br>
+- Divident universel
+
+##==##
+
+# White paper
+
+- Toile de confiance
+<br><br>
+- Et certifications
+
+##==##
+
+# Evènements
+
+- création de "wallets"
+<br><br>
+- certification entre "wallets"
+<br><br>
+- récompense du mineur
+<br><br>
+- versement du divident universel
+
+##==##
+
+# Consensus
+
+## PoW 💪
+
+- difficulté
+<br><br>
+- personnalisée
+
+##==##
+
+<!-- .slide: class="transition blue" -->
+
+# Des questions ?
