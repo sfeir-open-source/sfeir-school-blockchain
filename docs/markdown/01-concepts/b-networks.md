@@ -64,7 +64,7 @@
 
 # Exemples
 
-- Partage de fichiers : Emule / Torrent
+- Partage de fichiers : Emule / Torrent / IPFS
 <br><br>
 - **_Blockchain_**
 
