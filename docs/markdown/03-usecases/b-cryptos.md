@@ -135,6 +135,48 @@ Ressource : [https://bitcoin.org/bitcoin.pdf](https://bitcoin.org/bitcoin.pdf)
 
 ##==##
 
+# Fenêtre de forge
+
+<!-- .slide: class="full-center" -->
+
+<br><br>
+![](./assets/images/03-usecases/duniter-handicap-0.svg)
+
+##==##
+
+# Fenêtre de forge
+
+<!-- .slide: class="full-center" -->
+
+<br><br>
+![](./assets/images/03-usecases/duniter-handicap-1.svg)
+##==##
+
+# Fenêtre de forge
+
+<!-- .slide: class="full-center" -->
+
+<br><br>
+![](./assets/images/03-usecases/duniter-handicap-2.svg)
+##==##
+
+# Fenêtre de forge
+
+<!-- .slide: class="full-center" -->
+
+<br><br>
+![](./assets/images/03-usecases/duniter-handicap-3.svg)
+##==##
+
+# Fenêtre de forge
+
+<!-- .slide: class="full-center" -->
+
+<br><br>
+![](./assets/images/03-usecases/duniter-handicap-4.svg)
+
+##==##
+
 <!-- .slide: class="transition blue" -->
 
 # Des questions ?
