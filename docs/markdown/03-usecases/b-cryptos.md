@@ -79,6 +79,8 @@ Ressource : [https://bitcoin.org/bitcoin.pdf](https://bitcoin.org/bitcoin.pdf)
 
 *We have proposed a system for electronic transactions <br><br>without relying on trust.*
 
+##==##
+
 # Ğ1 (Duniter)
 
 - Créer en France
@@ -122,6 +124,14 @@ Ressource : [https://bitcoin.org/bitcoin.pdf](https://bitcoin.org/bitcoin.pdf)
 - difficulté
 <br><br>
 - personnalisée
+
+##==##
+
+# Difficulté personnalisée
+
+- fenêtre de forge
+<br><br>
+- forger trop souvent pénalise
 
 ##==##
 
