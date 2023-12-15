@@ -27,9 +27,3 @@
 <!-- .slide: class="transition bg-white" -->
 
 # La blockchain, un réseau P2P <br><br> Et un registre distribué
-
-##==##
-
-<!-- .slide: class="transition blue" -->
-
-# Des questions ?

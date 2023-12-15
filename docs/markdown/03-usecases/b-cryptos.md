@@ -172,9 +172,3 @@ Ressource : [https://bitcoin.org/bitcoin.pdf](https://bitcoin.org/bitcoin.pdf)
 <!-- .slide: class="full-center" -->
 
 ![](./assets/images/03-usecases/duniter-handicap-4.svg)
-
-##==##
-
-<!-- .slide: class="transition blue" -->
-
-# Des questions ?
