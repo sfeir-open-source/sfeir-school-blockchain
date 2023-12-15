@@ -15,7 +15,6 @@
 
 # Problème des généraux byzantins
 
-<br><br>
 ![](./assets/images/02-data/byzantine-fault.svg)
 
 ##==##

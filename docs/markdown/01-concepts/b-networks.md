@@ -17,7 +17,6 @@
 
 # Réseau centralisé
 
-<br><br>
 ![](./assets/images/01-concepts/centralized-network.svg)
 
 ##==##
@@ -38,7 +37,6 @@
 
 # Réseau décentralisé
 
-<br><br>
 ![](./assets/images/01-concepts/decentralized-network.svg)
 
 ##==##
@@ -57,7 +55,6 @@
 
 # Réseau pair-à-pair
 
-<br><br>
 ![](./assets/images/01-concepts/p2p-network.svg)
 
 ##==##

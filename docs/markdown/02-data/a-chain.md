@@ -7,7 +7,6 @@
 
 # Représentation des données
 
-<br><br>
 ![](./assets/images/02-data/chain.svg)
 
 ##==##
@@ -108,7 +107,6 @@
 
 # La "chaîne de blocs"
 
-<br><br>
 ![](./assets/images/02-data/chain-linked.svg)
 
 ##==##

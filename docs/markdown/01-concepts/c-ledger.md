@@ -2,9 +2,9 @@
 
 # Registre de données
 
-## > DLT (Distributed Ledger Technology)
+## DLT (Distributed Ledger Technology)
 
-<br><br><br><br>
+<br><br>
 ![h-800](./assets/images/01-concepts/ledger.svg)
 
 ##==##

@@ -8,6 +8,14 @@
 
 <!-- .slide: class="full-center" -->
 
+![](./assets/images/02-data/fork-0.svg)
+
+##==##
+
+# Fork
+
+<!-- .slide: class="full-center" -->
+
 ![](./assets/images/02-data/fork-1.svg)
 
 ##==##
@@ -25,14 +33,6 @@
 <!-- .slide: class="full-center" -->
 
 ![](./assets/images/02-data/fork-3.svg)
-
-##==##
-
-# Fork
-
-<!-- .slide: class="full-center" -->
-
-![](./assets/images/02-data/fork-4.svg)
 
 ##==##
 
