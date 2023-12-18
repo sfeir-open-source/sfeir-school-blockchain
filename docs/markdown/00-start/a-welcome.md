@@ -8,10 +8,10 @@
 
 # Déroulement
 
-- Durée ~3h
+- Durée ~2h30/3h
 
 - Concepts
 
 - Cas d'usage
 
-- Tempête de cerveaux
+- Tempêtes de cerveaux

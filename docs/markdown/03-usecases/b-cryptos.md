@@ -45,7 +45,7 @@ Ressource : [https://bitcoin.org/bitcoin.pdf](https://bitcoin.org/bitcoin.pdf)
 
 - création de "wallets"
 <br><br>
-- transaction de "coin"
+- transaction de "coin" (les "satoshis")
 <br><br>
 - récompense du mineur
 
@@ -75,9 +75,9 @@ Ressource : [https://bitcoin.org/bitcoin.pdf](https://bitcoin.org/bitcoin.pdf)
 
 <!-- .slide: class="full-center" -->
 
-# Satoshi
+# Satoshi Nakamoto
 
-*We have proposed a system for electronic transactions <br><br>without relying on trust.*
+*"We have proposed a system for electronic transactions <br><br>without relying on trust."*
 
 ##==##
 
@@ -111,7 +111,7 @@ Ressource : [https://bitcoin.org/bitcoin.pdf](https://bitcoin.org/bitcoin.pdf)
 <br><br>
 - certification entre "wallets"
 <br><br>
-- récompense du mineur
+- récompense du forgeur
 <br><br>
 - versement du divident universel
 
