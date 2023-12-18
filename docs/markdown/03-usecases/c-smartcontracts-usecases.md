@@ -24,11 +24,19 @@
 
 # NFT
 
-- titre de propriété numérique
+- titre de propriété numérique (= un token)
 <br><br>
 - irremplaçable
 <br><br>
 - Mais transférable
+
+##==##
+
+# NFT
+
+- un évènement dans la chaine
+<br><br>
+- possède un lien vers le monde Web 2
 
 ##==##
 

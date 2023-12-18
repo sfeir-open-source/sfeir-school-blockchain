@@ -5,6 +5,7 @@ const FOLDERS = {
   O1: '01-concepts',
   O2: '02-data',
   O3: '03-usecases',
+  O4: '04-end',
 };
 
 const pauseSlide = 'pause.md';
