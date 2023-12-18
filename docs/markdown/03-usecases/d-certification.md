@@ -20,13 +20,14 @@
 <br><br>
 - Preuves d'authenticité
 
+##==##
+
 <!-- .slide: class="exercice" -->
 
-# Imaginons un smart contract
+# Imaginez un smart contract
 
 ## Lab 3
 
-1. Constituez des groupes homogènes
+1. Reformez les groupes
 1. Tempêtez vos cerveaux 🤯
 1. Restitution
-1. Discussion ouverte
