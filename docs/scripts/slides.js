@@ -31,8 +31,11 @@ const usescases = () => [
   `${FOLDERS.O3}/a-title.md`,
   `${FOLDERS.O3}/b-cryptos.md`,
   questionsSlide,
-  `${FOLDERS.O3}/c-smartcontracts.md`,
+  `${FOLDERS.O3}/c-smartcontracts-.md`,
   questionsSlide,
+  `${FOLDERS.O3}/c-smartcontracts-usecases.md`,
+  questionsSlide,
+  `${FOLDERS.O3}/d-certification.md`,
 ];
 
 function formation() {
