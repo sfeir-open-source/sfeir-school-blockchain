@@ -39,12 +39,17 @@ const usescases = () => [
   `${FOLDERS.O3}/d-certification.md`,
 ];
 
+const end = () => [
+  `${FOLDERS.O4}/a-end.md`,
+];
+
 function formation() {
   return [
     ...start(), //
     ...concepts(), //
     ...data(), //
     ...usescases(), //
+    ...end(), //
   ].map((slidePath) => {
     return { path: slidePath };
   });
