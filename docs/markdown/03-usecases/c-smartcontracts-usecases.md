@@ -53,5 +53,3 @@
 - Decentralized Finance
 <br><br>
 - Sans tier de confiance
-
-##==##

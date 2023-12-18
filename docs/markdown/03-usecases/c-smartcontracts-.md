@@ -98,3 +98,11 @@ Ressource : [https://ethereum.org/en/whitepaper/](https://ethereum.org/en/whitep
 - au début PoW
 <br><br>
 - PoS depuis "The Merge" (09/2022)
+
+##==##
+
+# The Merge
+
+- staker 32 ETH minimum
+<br><br>
+- réduction de 99,5% de la consommation électrique
