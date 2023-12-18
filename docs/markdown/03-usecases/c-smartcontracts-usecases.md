@@ -28,7 +28,7 @@
 <br><br>
 - irremplaçable
 <br><br>
-- Mais transférable
+- mais transférable
 
 ##==##
 
